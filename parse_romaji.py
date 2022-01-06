@@ -33,25 +33,38 @@ with open('episode 1/romaji2.txt','r') as file:
 unique_romaji_words = set(romaji_words)
 print(unique_romaji_words, len(unique_romaji_words))
 
-# romaji_to_english_dict = {}
-# count = 0
-# for word in unique_romaji_words:
-#   print("word", count)
-#   try:
-#     print(subprocess.check_output(["myougiden", "-r", word]))
-#   except:
-#     print("Unknown word")
-#   count += 1
-#   if count == 10:
-#     break
+romaji_to_english_dict = {}
+unknown_words = []
+count = 0
+for word in unique_romaji_words:
+  print("word", count)
+  result = subprocess.run(['myougiden', '-r', word], capture_output=True)
+  if result.returncode == 0:
+    definition = result.stdout.decode("utf-8")
+    romaji_to_english_dict[word] = definition
+  else:
+    print("Unknown word", word)
+    unknown_words.append(word)
 
-result = subprocess.run(['myougiden', '-r', 'hajimeru'], capture_output=True)
-if result.returncode == 0:
-  output = result.stdout.split(b'\t') # split byte string by tabs
-  for line in range(len(output)):
-    print(line, output[line])
-else:
-  print("Unknown word")
+  count += 1
+  # if count == 10:
+  #   break
+
+print("Created Episode Dictionary of size " + str(len(romaji_to_english_dict)))
+print(romaji_to_english_dict)
+print("\n")
+print(str(len(unknown_words)) + " words wer unknown:", unknown_words)
+
+# result = subprocess.run(['myougiden', '-r', 'hajimeru'], capture_output=True)
+# result_str = result.stdout.decode("utf-8") 
+# print(result_str)
+
+# if result.returncode == 0:
+#   output = result.stdout.split(b'\t') # split byte string by tabs
+#   for line in range(len(output)):
+#     print(line, output[line])
+# else:
+#   print("Unknown word")
 # print(result)
 # output = re.split(r'\t+', output)
 # formatted_output = output.stdout.split(b'\t')
