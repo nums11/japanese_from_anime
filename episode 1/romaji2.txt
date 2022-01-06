@@ -1,0 +1,1553 @@
+1
+00 : 00 : 05 , 500 --> 00 : 00 : 09 , 003
+〈 mukashi 妖狐 arikeri ｡
+
+2
+00 : 00 : 09 , 003 --> 00 : 00 : 13 , 007
+sono kitsune kokonotsu no o ari ｡
+
+3
+00 : 00 : 13 , 007 --> 00 : 00 : 17 , 512
+sono o ichi do furaba yamakuzure tsunami tatsu ｡
+
+4
+00 : 00 : 17 , 512 --> 00 : 00 : 20 , 014
+kore ni kōjite hitodomo
+
+5
+00 : 00 : 20 , 014 --> 00 : 00 : 23 , 017
+nin no yakara o atsumekeri 〉
+
+6
+00 : 00 : 23 , 017 --> 00 : 00 : 25 , 520
+( nin ichi ) yon daime ga kuru made ashidome o kakero ！
+
+7
+00 : 00 : 25 , 520 --> 00 : 00 : 29 , 020
+( nin ni ) kore ijō ichi ho mo sato ni chikazukeruna ！
+
+8
+00 : 00 : 32 , 026 --> 00 : 00 : 35 , 029
+〈 wazuka ichi nin ga nin no mono
+
+9
+00 : 00 : 35 , 029 --> 00 : 00 : 38 , 533
+seishi o kake kore o fūin seshimeruga
+
+10
+00 : 00 : 38 , 533 --> 00 : 00 : 41 , 536
+sono mono shinikeri ｡
+
+11
+00 : 00 : 41 , 536 --> 00 : 00 : 44 , 539
+sono nin no monomei o
+
+12
+00 : 00 : 44 , 539 --> 00 : 00 : 48 , 543
+yon daime hokage to mōsu 〉
+
+13
+00 : 00 : 48 , 543 --> 00 : 00 : 55 , 049
+( ﾅﾙﾄ no nakigoe )
+
+14
+00 : 00 : 55 , 049 --> 00 : 01 : 00 , 555
+♬( ｵｰﾌﾟﾆﾝｸﾞﾃｰﾏ )
+
+15
+00 : 01 : 00 , 555 --> 00 : 01 : 02 , 990
+hya ～ hhahhahha … ！
+
+16
+00 : 01 : 02 , 990 --> 00 : 01 : 04 , 992
+hehhehhe ～！( nin ichi ) kora naruto ！
+
+17
+00 : 01 : 04 , 992 --> 00 : 01 : 06 , 994
+nani chi yū bachiatarina koto o shita nda ！
+
+18
+00 : 01 : 06 , 994 --> 00 : 01 : 09 , 994
+( nin ni ) kyō toiu kyō wa zettai yurusanzo ！
+
+19
+00 : 01 : 12 , 500 --> 00 : 01 : 16 , 504
+ha ～ hhahhahhatu ！ usse endattebayo ！
+
+20
+00 : 01 : 16 , 504 --> 00 : 01 : 21 , 008
+omaerasa omaera sā ～ nna mane dekinēdaro ？
+
+21
+00 : 01 : 21 , 008 --> 00 : 01 : 25 , 513
+dakedo ore ni wa dekiru ore wa sugoi n dattebayo ！
+
+22
+00 : 01 : 25 , 513 --> 00 : 01 : 28 , 516
+( nin san ) taihendesu san daime ！ ( nin yon ) hokage sama ！
+
+23
+00 : 01 : 28 , 516 --> 00 : 01 : 31 , 519
+( saru hi ) nani ja ？ mata naruto no yatsu ga
+
+24
+00 : 01 : 31 , 519 --> 00 : 01 : 34 , 021
+nani ka shidekashi demo shita ka ？
+
+25
+00 : 01 : 34 , 021 --> 00 : 01 : 37 , 024
+( nin yon ) hai rekidai hokage samatachi no kao iwa ni … ｡
+
+26
+00 : 01 : 37 , 024 --> 00 : 01 : 39 , 527
+( nin san ) osoreōku mo rakugaki o … ｡
+
+27
+00 : 01 : 39 , 527 --> 00 : 01 : 42 , 027
+fū ～｡
+
+28
+00 : 01 : 49 , 036 --> 00 : 01 : 51 , 036
+( nin ichi ) mate ！
+
+29
+00 : 01 : 53 , 541 --> 00 : 01 : 55 , 543
+kah hahhahha ！
+
+30
+00 : 01 : 55 , 543 --> 00 : 01 : 58 , 045
+wake nai ttebayo ！
+
+31
+00 : 01 : 58 , 045 --> 00 : 02 : 00 , 047
+( ｲﾙｶ ) kora naruto ！
+
+32
+00 : 02 : 00 , 047 --> 00 : 02 : 02 , 547 da a ～！
+
+33
+00 : 02 : 03 , 985 --> 00 : 02 : 07 , 488
+totsuzen nani sun dattebayo iruka sensei ！
+
+34
+00 : 02 : 07 , 488 --> 00 : 02 : 10 , 488
+omae koso jugyō chū ni nani yatte nda ？
+
+35
+00 : 02 : 12 , 994 --> 00 : 02 : 16 , 998
+( ｲﾙｶ ) ī ka ？ naruto omae wa zenkai mo zenzenkai mo
+
+36
+00 : 02 : 16 , 998 --> 00 : 02 : 19 , 000
+sotsugyō shiken ni ochiteru nda ｡
+
+37
+00 : 02 : 19 , 000 --> 00 : 02 : 22 , 003
+itazura shiteru bāi janaidarō baka yarō ！
+
+38
+00 : 02 : 22 , 003 --> 00 : 02 : 24 , 005
+fun ｡
+
+39
+00 : 02 : 24 , 005 --> 00 : 02 : 27 , 008
+( ｲﾙｶ ) kyō no jugyō wa henka no jutsu no fukushū tesutoda ！
+
+40
+00 : 02 : 27 , 008 --> 00 : 02 : 31 , 512
+sudeni gōkaku shiteiru mono mo narabe ～！( seitotachi ) e ～！
+
+41
+00 : 02 : 31 , 512 --> 00 : 02 : 35 , 012
+haruno sakura iki ma ～ su henka ！
+
+42
+00 : 02 : 38 , 519 --> 00 : 02 : 41 , 022
+yo ～ shi ！
+
+43
+00 : 02 : 41 , 022 --> 00 : 02 : 43 , 524
+yatta ～！
+
+44
+00 : 02 : 43 , 524 --> 00 : 02 : 45 , 526
+《sha ～ n naro ～！》
+
+45
+00 : 02 : 45 , 526 --> 00 : 02 : 47 , 528
+sasuke kun mitekureta ？
+
+46
+00 : 02 : 47 , 528 --> 00 : 02 : 50 , 528
+( ｲﾙｶ ji uchi wa sasuke ｡( ｻｽｹ ) hai ｡
+
+47
+00 : 02 : 55 , 536 --> 00 : 02 : 57 , 536
+yoshi ｡
+
+48
+00 : 02 : 59 , 040 --> 00 : 03 : 02 , 476
+( ｲﾙｶ ji uzumaki naruto ｡
+
+49
+00 : 03 : 02 , 476 --> 00 : 03 : 04 , 979
+( ｼｶﾏﾙ ttakushi chi mendoku se e ｡
+
+50
+00 : 03 : 04 , 979 --> 00 : 03 : 06 , 981
+( i no ) minna anta no seiyo ｡
+
+51
+00 : 03 : 06 , 981 --> 00 : 03 : 09 , 481
+shiru kayo ｡
+
+52
+00 : 03 : 10 , 985 --> 00 : 03 : 13 , 487
+《 yo ～ shi 》
+
+53
+00 : 03 : 13 , 487 --> 00 : 03 : 16 , 991
+( ﾋﾅﾀ )《 naruto kun ga … ganbatte 》
+
+54
+00 : 03 : 16 , 991 --> 00 : 03 : 18 , 991
+henka ！
+
+55
+00 : 03 : 20 , 494 --> 00 : 03 : 23 , 998
+uffu ～ n ｡
+
+56
+00 : 03 : 23 , 998 --> 00 : 03 : 26 , 000
+gutu … ｡
+
+57
+00 : 03 : 26 , 000 --> 00 : 03 : 28 , 002
+guwa ～！
+
+58
+00 : 03 : 28 , 002 --> 00 : 03 : 32 , 006
+da ～ hhahhahhatu ！ dōda ？ nazukete oiroke no jutsu ｡
+
+59
+00 : 03 : 32 , 006 --> 00 : 03 : 34 , 506
+kono dai bakasha ！ kuda ranjutsu o tsukuruna ！
+
+60
+00 : 03 : 51 , 475 --> 00 : 03 : 54 , 478
+kuso … kus so ！
+
+61
+00 : 03 : 54 , 478 --> 00 : 03 : 58 , 983
+kire ～ i ni suru made ie ni wa kisankarana ｡
+
+62
+00 : 03 : 58 , 983 --> 00 : 04 : 04 , 483
+betsu ni īyo ！ uchi ni kaettatteda re mo inē shiyo fun ｡
+
+63
+00 : 04 : 08 , 926 --> 00 : 04 : 10 , 928
+( ｲﾙｶ ) naruto ｡
+
+64
+00 : 04 : 10 , 928 --> 00 : 04 : 13 , 431
+kondo wa nani ？
+
+65
+00 : 04 : 13 , 431 --> 00 : 04 : 15 , 433
+mā nanda … ｡
+
+66
+00 : 04 : 15 , 433 --> 00 : 04 : 17 , 935
+sore zenbu kirei ni shitara
+
+67
+00 : 04 : 17 , 935 --> 00 : 04 : 20 , 935
+konban rāmen ogotteyaru ｡
+
+68
+00 : 04 : 22 , 940 --> 00 : 04 : 24 , 942
+e !?
+
+69
+00 : 04 : 24 , 942 --> 00 : 04 : 29 , 442
+yo ～ shi ！ oresa oresa ganbacchao ！
+
+70
+00 : 04 : 42 , 960 --> 00 : 04 : 45 , 463
+( ｲﾙｶ ) naruto ｡ n ？
+
+71
+00 : 04 : 45 , 463 --> 00 : 04 : 48 , 466
+nande anna tokoro ni rakugaki shita ？
+
+72
+00 : 04 : 48 , 466 --> 00 : 04 : 51 , 969
+hokage sama ga dōiu hitotachi ka wakatte ndaro ｡
+
+73
+00 : 04 : 51 , 969 --> 00 : 04 : 54 , 469
+atat tari maejan ｡
+
+74
+00 : 04 : 58 , 476 --> 00 : 04 : 59 , 977
+hā ～｡
+
+75
+00 : 04 : 59 , 977 --> 00 : 05 : 03 , 414
+yōsuruni hokage no namae o uketsuida hito tte no wa
+
+76
+00 : 05 : 03 , 414 --> 00 : 05 : 06 , 914
+sato ichi ban no ninjadatta tte kotodaro ？
+
+77
+00 : 05 : 08 , 919 --> 00 : 05 : 10 , 921
+tokuni yon daime tte
+
+78
+00 : 05 : 10 , 921 --> 00 : 05 : 13 , 424
+sato o bake gitsunekara mamotta
+
+79
+00 : 05 : 13 , 424 --> 00 : 05 : 16 , 427
+eiyūrashīshi ｡( ｲﾙｶ ) jā nande ？
+
+80
+00 : 05 : 16 , 427 --> 00 : 05 : 19 , 930
+kono ore wa izure hokage no na o uketsuide
+
+81
+00 : 05 : 19 , 930 --> 00 : 05 : 24 , 935
+ndeyo sendai no dono hokage o mo koeteyaru nda ！
+
+82
+00 : 05 : 24 , 935 --> 00 : 05 : 30 , 441
+de sa de sa sato no minna ni ore no chikara o mitomesasete yandayo ｡
+
+83
+00 : 05 : 30 , 441 --> 00 : 05 : 32 , 943
+tokorodesa sensei
+
+84
+00 : 05 : 32 , 943 --> 00 : 05 : 35 , 446
+onegai andakedo ｡
+
+85
+00 : 05 : 35 , 446 --> 00 : 05 : 37 , 948
+o kawari ka ？ n ～ nya ｡
+
+86
+00 : 05 : 37 , 948 --> 00 : 05 : 40 , 951
+ki no ha no gaku ate chitto yarashite ～｡
+
+87
+00 : 05 : 40 , 951 --> 00 : 05 : 42 , 953
+a ～ kore ka ｡
+
+88
+00 : 05 : 42 , 953 --> 00 : 05 : 46 , 457
+damedame kore wa gakkō o sotsugyō shite
+
+89
+00 : 05 : 46 , 457 --> 00 : 05 : 49 , 460
+ichi ninmae to mitomerareta akashidakarana ｡
+
+90
+00 : 05 : 49 , 460 --> 00 : 05 : 52 , 963
+omae wa ashita ｡ kechi ！
+
+91
+00 : 05 : 52 , 963 --> 00 : 05 : 56 , 467
+( ｲﾙｶ ) a … ahaha dakara gōguru hazushitetana ？
+
+92
+00 : 05 : 56 , 467 --> 00 : 05 : 58 , 967
+o kawari ！( ｲﾙｶ ) a� ！
+
+93
+00 : 06 : 00 , 471 --> 00 : 06 : 03 , 407
+( ｲﾙｶ ) de wa kore yori sotsugyō shiken o hajimeru ｡
+
+94
+00 : 06 : 03 , 407 --> 00 : 06 : 06 , 911
+yobareta mono wa tonari no kyōshitsu ni kuru yō ni ｡
+
+95
+00 : 06 : 06 , 911 --> 00 : 06 : 09 , 914
+nao kadai wa bunshin no jutsu to suru ｡
+
+96
+00 : 06 : 09 , 914 --> 00 : 06 : 11 , 916
+《 ga ～ n ｡
+
+97
+00 : 06 : 11 , 916 --> 00 : 06 : 16 , 416
+yoriniyotte ore no ichiban nigatena jutsu janē ka … 》
+
+98
+00 : 06 : 19 , 924 --> 00 : 06 : 23 , 424
+《 demo sa de mo sa yatteyaru ttebayo ！ 》
+
+99
+00 : 06 : 27 , 932 --> 00 : 06 : 30 , 432
+bunshin no jutsu ！
+
+100
+00 : 06 : 38 , 943 --> 00 : 06 : 40 , 943
+( ｲﾙｶ ) shikkaku ！
+
+101
+00 : 06 : 42 , 446 --> 00 : 06 : 44 , 448
+( ﾐｽﾞｷ ) iruka sensei ｡
+
+102
+00 : 06 : 44 , 448 --> 00 : 06 : 48 , 452
+kare wa mi no konashi ya sutamina wa yūshūdesushi
+
+103
+00 : 06 : 48 , 452 --> 00 : 06 : 52 , 456
+kore demo ichiō bunshin no jutsu wa dekitemasu ｡
+
+104
+00 : 06 : 52 , 456 --> 00 : 06 : 54 , 959
+gōkaku ni shiteagete mo … ｡
+
+105
+00 : 06 : 54 , 959 --> 00 : 06 : 57 , 461
+mizuki sensei minna
+
+106
+00 : 06 : 57 , 461 --> 00 : 07 : 01 , 398
+saitei de mo san nin ni wa bunshin shiteru ndesu ｡
+
+107
+00 : 07 : 01 , 398 --> 00 : 07 : 03 , 901
+demo naruto wa tatta ichi nin ｡
+
+108
+00 : 07 : 03 , 901 --> 00 : 07 : 06 , 904
+shikamo kore wa ashishu matoi ni naru dakedesu ｡
+
+109
+00 : 07 : 06 , 904 --> 00 : 07 : 09 , 904
+gōkaku to wa mitomeraremasen ｡
+
+110
+00 : 07 : 17 , 414 --> 00 : 07 : 19 , 416
+( ﾄﾋﾞｵ ) ichi ninmaedane ore ｡
+
+111
+00 : 07 : 19 , 416 --> 00 : 07 : 21 , 418
+( ﾄﾋﾞｵ no chichi ) yoku yatta sasuga ore no koda ｡
+
+112
+00 : 07 : 21 , 418 --> 00 : 07 : 25 , 923
+( ﾄﾋﾞｵ no haha ) sotsugyō omedetō konya wa mama gochisō tsukuruwa ｡
+
+113
+00 : 07 : 25 , 923 --> 00 : 07 : 28 , 425
+( josei ichi nē ano ko ｡
+
+114
+00 : 07 : 28 , 425 --> 00 : 07 : 30 , 427
+( josei ni ) rei no koyo ｡
+
+115
+00 : 07 : 30 , 427 --> 00 : 07 : 32 , 930
+( josei ichi ) ichi nin dake ochitarashīwa ｡
+
+116
+00 : 07 : 32 , 930 --> 00 : 07 : 34 , 932
+( josei ni ) fun ī kimidawa ｡
+
+117
+00 : 07 : 34 , 932 --> 00 : 07 : 37 , 935
+( josei ichi ) anna no ga nin ni nattara taihenyo ｡
+
+118
+00 : 07 : 37 , 935 --> 00 : 07 : 40 , 437
+datte honto wa ano ko … ｡( josei ni ) chotto ！
+
+119
+00 : 07 : 40 , 437 --> 00 : 07 : 42 , 439
+sore yori saki wa kinkuyo ｡
+
+120
+00 : 07 : 42 , 439 --> 00 : 07 : 44 , 439
+( monōto )
+
+121
+00 : 07 : 49 , 947 --> 00 : 07 : 52 , 449
+irukayo ｡
+
+122
+00 : 07 : 52 , 449 --> 00 : 07 : 54 , 952
+atode hanashi ga aru ｡
+
+123
+00 : 07 : 54 , 952 --> 00 : 07 : 57 , 452
+( ｲﾙｶ ) hai ｡
+
+124
+00 : 08 : 01 , 892 --> 00 : 08 : 06 , 397
+( ﾐｽﾞｷ ) iruka sensei wa kesshite ijiwaru shiteru wake janaiyo ｡
+
+125
+00 : 08 : 06 , 397 --> 00 : 08 : 09 , 400
+jā nande ore bakkari … ｡
+
+126
+00 : 08 : 09 , 400 --> 00 : 08 : 12 , 403
+naruto kun ni wa honto no imi de
+
+127
+00 : 08 : 12 , 403 --> 00 : 08 : 15 , 906
+tsuyoku natte hoshī tte omotteru ndayo ｡
+
+128
+00 : 08 : 15 , 906 --> 00 : 08 : 19 , 410
+oya no inai monodōshi ｡
+
+129
+00 : 08 : 19 , 410 --> 00 : 08 : 23 , 914
+demo … sotsugyō shitakatta nda ｡
+
+130
+00 : 08 : 23 , 914 --> 00 : 08 : 27 , 918
+fus shikata ga naina ｡
+
+131
+00 : 08 : 27 , 918 --> 00 : 08 : 29 , 920
+e ？
+
+132
+00 : 08 : 29 , 920 --> 00 : 08 : 34 , 425
+kun ni totteoki no himitsu o oshieyō ｡
+
+133
+00 : 08 : 34 , 425 --> 00 : 08 : 36 , 925
+《 himitsu … 》
+
+134
+00 : 08 : 39 , 430 --> 00 : 08 : 41 , 432
+( saru hi )＜ irukayo ＞
+
+135
+00 : 08 : 41 , 432 --> 00 : 08 : 44 , 435
+( ｲﾙｶ )＜ nandesu ？ hokage sama ＞
+
+136
+00 : 08 : 44 , 435 --> 00 : 08 : 47 , 438
+( saru hi )＜ omae no kimochi mo wakarande mo nai ｡
+
+137
+00 : 08 : 47 , 438 --> 00 : 08 : 49 , 940
+jaga naruto mo onaji
+
+138
+00 : 08 : 49 , 940 --> 00 : 08 : 53 , 940
+oya no aijō o shirazu ni sodattekita nja ＞
+
+139
+00 : 08 : 57 , 448 --> 00 : 09 : 00 , 451
+( nin )＜ uwa� ！ ＞
+
+140
+00 : 09 : 00 , 451 --> 00 : 09 : 04 , 888
+( ｲﾙｶ )＜ hanase ！ tōchan to kāchan ga mada tatakatte nda ！ ＞
+
+141
+00 : 09 : 04 , 888 --> 00 : 09 : 06 , 890
+( ﾉｯｸ )
+
+142
+00 : 09 : 06 , 890 --> 00 : 09 : 11 , 395
+( ﾐｽﾞｷ ) iruka sensei okitekudasai ！
+
+143
+00 : 09 : 11 , 395 --> 00 : 09 : 13 , 397
+dō shita ndesu ？
+
+144
+00 : 09 : 13 , 397 --> 00 : 09 : 15 , 899
+( ﾐｽﾞｷ ) hokage sama no tokoro e atsumattekudasai ｡
+
+145
+00 : 09 : 15 , 899 --> 00 : 09 : 18 , 402
+dōyara naruto kun ga
+
+146
+00 : 09 : 18 , 402 --> 00 : 09 : 20 , 904
+fūin no sho o mochidashitarashiku ｡
+
+147
+00 : 09 : 20 , 904 --> 00 : 09 : 23 , 404 na … fūin no shodesu tte !?
+
+148
+00 : 09 : 24 , 908 --> 00 : 09 : 28 , 412
+e ～ tto saisho no jutsu wa
+
+149
+00 : 09 : 28 , 412 --> 00 : 09 : 31 , 915
+｢ tajū kage bunshin ｣｡
+
+150
+00 : 09 : 31 , 915 --> 00 : 09 : 35 , 419
+nanidayo ikinari nigatena jutsu kayo ｡
+
+151
+00 : 09 : 35 , 419 --> 00 : 09 : 39 , 423
+( ﾍﾞｯｺｳ ) hokage sama kondo bakari wa itazura de wa sumasaremasen ｡
+
+152
+00 : 09 : 39 , 423 --> 00 : 09 : 43 , 427
+( ｲﾜﾅ ) fūin no sho wa shodai hokage sama ga fūin shita kikenna mono ｡
+
+153
+00 : 09 : 43 , 427 --> 00 : 09 : 45 , 929
+tsukaikata niyotte wa … ｡
+
+154
+00 : 09 : 45 , 929 --> 00 : 09 : 50 , 934
+( ﾔｼﾞﾛﾍﾞｴ ) mo shi sato no soto ni mochidasaretara sore koso ichidaiji ｡
+
+155
+00 : 09 : 50 , 934 --> 00 : 09 : 53 , 937
+umu naruto o tsuremodosu no ja ｡
+
+156
+00 : 09 : 53 , 937 --> 00 : 09 : 55 , 937
+( nintachi ) ha� ！
+
+157
+00 : 10 : 02 , 946 --> 00 : 10 : 04 , 948
+hā hā hā … ｡
+
+158
+00 : 10 : 04 , 948 --> 00 : 10 : 07 , 948
+( ｲﾙｶ )《 doko e itta ？ naruto 》
+
+159
+00 : 10 : 13 , 457 --> 00 : 10 : 15 , 459
+( ﾐｽﾞｷ ) fufufu … ｡
+
+160
+00 : 10 : 15 , 459 --> 00 : 10 : 19 , 463
+( ﾐｽﾞｷ )《 kono koto o sato ni ī hirome sonogo naruto o shimatsu suru ｡
+
+161
+00 : 10 : 19 , 463 --> 00 : 10 : 23 , 463
+sō sureba fūin no sho wa ore no monoda ！ 》
+
+162
+00 : 10 : 31 , 495 --> 00 : 10 : 39 , 503
+hā hā hā … ｡
+
+163
+00 : 10 : 39 , 503 --> 00 : 10 : 44 , 007
+kora ～ naruto ｡
+
+164
+00 : 10 : 44 , 007 --> 00 : 10 : 46 , 510
+ehehehe … ｡
+
+165
+00 : 10 : 46 , 510 --> 00 : 10 : 48 , 011
+o ？
+
+166
+00 : 10 : 48 , 011 --> 00 : 10 : 50 , 514
+mitsukacchimatta ka ｡
+
+167
+00 : 10 : 50 , 514 --> 00 : 10 : 54 , 017
+mada jutsu ichi ko shika oboetenēnoni ｡
+
+168
+00 : 10 : 54 , 017 --> 00 : 10 : 56 , 954
+( ｲﾙｶ )《 koko de jutsu no renshū o ？
+
+169
+00 : 10 : 56 , 954 --> 00 : 10 : 59 , 957
+konnani naru made … 》 anosa ano sa ！
+
+170
+00 : 10 : 59 , 957 --> 00 : 11 : 01 , 959
+korekara sugge jutsu mi sekkarasa
+
+171
+00 : 11 : 01 , 959 --> 00 : 11 : 03 , 961
+sore dekitara sotsugyō sasetekure yona ｡
+
+172
+00 : 11 : 03 , 961 --> 00 : 11 : 07 , 965
+kono makimono no jutsu o misereba sotsugyō machigainē ndaro ？
+
+173
+00 : 11 : 07 , 965 --> 00 : 11 : 10 , 467
+dare ga sonna koto o ？
+
+174
+00 : 11 : 10 , 467 --> 00 : 11 : 12 , 469
+mizuki sensei dattebayo ｡
+
+175
+00 : 11 : 12 , 469 --> 00 : 11 : 14 , 471
+makimono no koto mo kono basho mo
+
+176
+00 : 11 : 14 , 471 --> 00 : 11 : 16 , 971
+mizuki sensei ga … ｡
+
+177
+00 : 11 : 18 , 976 --> 00 : 11 : 20 , 976
+( ｲﾙｶ )《 mizukida to !?》
+
+178
+00 : 11 : 22 , 479 --> 00 : 11 : 24 , 479
+u … uwa ～！
+
+179
+00 : 11 : 25 , 983 --> 00 : 11 : 28 , 485
+( ﾐｽﾞｷ ) yoku koko ga wakattana ｡
+
+180
+00 : 11 : 28 , 485 --> 00 : 11 : 31 , 985
+naruhodo sōiu koto ka ｡
+
+181
+00 : 11 : 33 , 991 --> 00 : 11 : 37 , 995
+( ﾐｽﾞｷ ) naruto makimono o watase ｡
+
+182
+00 : 11 : 37 , 995 --> 00 : 11 : 41 , 999
+anosa … ano sa dō natte n no ？ kore ｡
+
+183
+00 : 11 : 41 , 999 --> 00 : 11 : 44 , 001
+hā hā … ｡
+
+184
+00 : 11 : 44 , 001 --> 00 : 11 : 47 , 004
+naruto makimono wa shinde mo watasuna ！
+
+185
+00 : 11 : 47 , 004 --> 00 : 11 : 51 , 508
+sore wa kinjishu no ninjutsu o shirushite fūin shita kikenna monoda ！
+
+186
+00 : 11 : 51 , 508 --> 00 : 11 : 53 , 510
+mizuki wa sore o te ni ireru tame
+
+187
+00 : 11 : 53 , 510 --> 00 : 11 : 56 , 947
+omae o riyō shita nda ！
+
+188
+00 : 11 : 56 , 947 --> 00 : 11 : 59 , 950
+naruto iruka wa
+
+189
+00 : 11 : 59 , 950 --> 00 : 12 : 02 , 452
+omae ga sore o motsu koto o osoreteiru nda ｡
+
+190
+00 : 12 : 02 , 452 --> 00 : 12 : 04 , 955
+e ？
+
+191
+00 : 12 : 04 , 955 --> 00 : 12 : 06 , 957
+nani o itteiru !? mizuki ！
+
+192
+00 : 12 : 06 , 957 --> 00 : 12 : 08 , 959
+damasareruna naruto ｡
+
+193
+00 : 12 : 08 , 959 --> 00 : 12 : 12 , 462
+hahaha … hontō no koto o oshieteyaruyo ｡
+
+194
+00 : 12 : 12 , 462 --> 00 : 12 : 14 , 464 ba … baka yose ！
+
+195
+00 : 12 : 14 , 464 --> 00 : 12 : 19 , 469
+( ﾐｽﾞｷ ) 12 nen mae no jiken irai sato ni wa aru okite ga tsukurareta ｡
+
+196
+00 : 12 : 19 , 469 --> 00 : 12 : 21 , 972
+aru okite ？
+
+197
+00 : 12 : 21 , 972 --> 00 : 12 : 24 , 975
+sore wa naruto omae ni dake wa
+
+198
+00 : 12 : 24 , 975 --> 00 : 12 : 27 , 978
+kesshite shirasareru koto no nai okitedatta ｡
+
+199
+00 : 12 : 27 , 978 --> 00 : 12 : 31 , 982
+ore ni dake ？ nanina nda !? sono okitette ｡
+
+200
+00 : 12 : 31 , 982 --> 00 : 12 : 33 , 984
+yamero mizuki ！
+
+201
+00 : 12 : 33 , 984 --> 00 : 12 : 38 , 488
+naruto no shōtai ga bake guchi ni shinai okiteda ｡
+
+202
+00 : 12 : 38 , 488 --> 00 : 12 : 40 , 490
+e ？
+
+203
+00 : 12 : 40 , 490 --> 00 : 12 : 42 , 492
+( ﾐｽﾞｷ ) tsumari omae ga
+
+204
+00 : 12 : 42 , 492 --> 00 : 12 : 45 , 495
+iruka no ryōshin o koroshi sato o kaimetsu saseta
+
+205
+00 : 12 : 45 , 495 --> 00 : 12 : 47 , 497
+tsuzurao no na ndayo ｡
+
+206
+00 : 12 : 47 , 497 --> 00 : 12 : 49 , 499
+yamero ～！
+
+207
+00 : 12 : 49 , 499 --> 00 : 12 : 54 , 004
+( ﾐｽﾞｷ ) omae wa sato no minna ni zutto damasareteita ndayo ｡
+
+208
+00 : 12 : 54 , 004 --> 00 : 12 : 56 , 940
+okashī to wa omowanakatta ka ？
+
+209
+00 : 12 : 56 , 940 --> 00 : 12 : 59 , 443
+annani kegirai sarete ｡
+
+210
+00 : 12 : 59 , 443 --> 00 : 13 : 01 , 445
+《 chikusho ～！
+
+211
+00 : 13 : 01 , 445 --> 00 : 13 : 04 , 448
+chikusho ～ chikusho ～ chikusho ～ chikusho ～！》
+
+212
+00 : 13 : 04 , 448 --> 00 : 13 : 06 , 450
+( ｲﾙｶ )《 naruto … 》
+
+213
+00 : 13 : 06 , 450 --> 00 : 13 : 09 , 453
+omae nanka dare mo mitomeyashinai ！
+
+214
+00 : 13 : 09 , 453 --> 00 : 13 : 12 , 956
+iruka datte omae ga nikui nda ！
+
+215
+00 : 13 : 12 , 956 --> 00 : 13 : 15 , 459
+( saru hi )＜ irukayo ｡
+
+216
+00 : 13 : 15 , 459 --> 00 : 13 : 18 , 462
+naruto wa oya no aijō o shirazu
+
+217
+00 : 13 : 18 , 462 --> 00 : 13 : 22 , 966
+sato no mono ni wa ano jiken no koto de kemutagarareru ｡
+
+218
+00 : 13 : 22 , 966 --> 00 : 13 : 25 , 969
+dakara hito no ki o hiku tame ni
+
+219
+00 : 13 : 25 , 969 --> 00 : 13 : 28 , 972
+itazura o suru shika nakatta no ja ｡
+
+220
+00 : 13 : 28 , 972 --> 00 : 13 : 30 , 974
+donna katachideare
+
+221
+00 : 13 : 30 , 974 --> 00 : 13 : 34 , 478
+jibun no sonzai kachi o mitomete hoshikatta njayo ｡
+
+222
+00 : 13 : 34 , 478 --> 00 : 13 : 39 , 483
+tsuyogatte hairuga tsurai no wa naruto no hōja ＞
+
+223
+00 : 13 : 39 , 483 --> 00 : 13 : 41 , 485
+( ﾐｽﾞｷ ) shine naruto ！
+
+224
+00 : 13 : 41 , 485 --> 00 : 13 : 43 , 987
+uwa� ！
+
+225
+00 : 13 : 43 , 987 --> 00 : 13 : 45 , 987
+naruto fusero ！
+
+226
+00 : 13 : 51 , 995 --> 00 : 13 : 53 , 995 ga� ！
+
+227
+00 : 13 : 58 , 435 --> 00 : 14 : 02 , 439 na … nande ？
+
+228
+00 : 14 : 02 , 439 --> 00 : 14 : 04 , 941
+onaji dakarasa ｡
+
+229
+00 : 14 : 04 , 941 --> 00 : 14 : 09 , 446
+ryōshin ga shinde kara dare mo ore no koto o home tari
+
+230
+00 : 14 : 09 , 446 --> 00 : 14 : 13 , 450
+mitometekureru hito ga inaku nacchimatta ｡
+
+231
+00 : 14 : 13 , 450 --> 00 : 14 : 15 , 452
+deki no warukatta ore wa
+
+232
+00 : 14 : 15 , 452 --> 00 : 14 : 18 , 455
+kurasu de yoku baka o yatta ｡
+
+233
+00 : 14 : 18 , 455 --> 00 : 14 : 21 , 458
+hito no ki o hikitsuketakattakara ｡
+
+234
+00 : 14 : 21 , 458 --> 00 : 14 : 25 , 462
+yūshūna hō de hito no ki ga hikenakattakara
+
+235
+00 : 14 : 25 , 462 --> 00 : 14 : 28 , 462
+zutto baka yatteta nda ｡
+
+236
+00 : 14 : 30 , 967 --> 00 : 14 : 33 , 970
+( ｲﾙｶ ) kurushikatta ｡
+
+237
+00 : 14 : 33 , 970 --> 00 : 14 : 37 , 474
+sōdayonā naruto ｡
+
+238
+00 : 14 : 37 , 474 --> 00 : 14 : 40 , 477
+samishikatta ndayonā ｡
+
+239
+00 : 14 : 40 , 477 --> 00 : 14 : 43 , 980
+kurushikatta ndayonā ｡
+
+240
+00 : 14 : 43 , 980 --> 00 : 14 : 46 , 483
+gomennā naruto ｡
+
+241
+00 : 14 : 46 , 483 --> 00 : 14 : 48 , 985
+ore ga motto shikkari shiterya
+
+242
+00 : 14 : 48 , 985 --> 00 : 14 : 52 , 989
+konna omoi sasezu ni sundanoni ｡
+
+243
+00 : 14 : 52 , 989 --> 00 : 14 : 56 , 927
+fuffufufu … warawaseruze ！
+
+244
+00 : 14 : 56 , 927 --> 00 : 15 : 01 , 932
+iruka wa jibun no ryōshin o koroshita omae o zutto nikunde itanda ｡
+
+245
+00 : 15 : 01 , 932 --> 00 : 15 : 03 , 934
+nandakanda itte
+
+246
+00 : 15 : 03 , 934 --> 00 : 15 : 06 , 434
+makimono o torimodoshitai dakena nda ｡
+
+247
+00 : 15 : 08 , 939 --> 00 : 15 : 11 , 942
+( ｲﾙｶ ) naruto ！
+
+248
+00 : 15 : 11 , 942 --> 00 : 15 : 14 , 444
+naruto ～！
+
+249
+00 : 15 : 14 , 444 --> 00 : 15 : 16 , 446
+( ﾐｽﾞｷ ) hahaha … ｡
+
+250
+00 : 15 : 16 , 446 --> 00 : 15 : 19 , 950
+naruto wa kokorogawari suru yōna yatsu janē ｡
+
+251
+00 : 15 : 19 , 950 --> 00 : 15 : 24 , 454
+ano makimono de kono sato ni fukushū suruzo ｡
+
+252
+00 : 15 : 24 , 454 --> 00 : 15 : 27 , 457
+sakki no aitsu no mamitaro ？
+
+253
+00 : 15 : 27 , 457 --> 00 : 15 : 31 , 461
+bake meda ｡
+
+254
+00 : 15 : 31 , 461 --> 00 : 15 : 34 , 464
+( ｲﾙｶ ) iya naruto wa
+
+255
+00 : 15 : 34 , 464 --> 00 : 15 : 37 , 968
+sonna yatsu janai ！
+
+256
+00 : 15 : 37 , 968 --> 00 : 15 : 39 , 970
+fu ｡
+
+257
+00 : 15 : 39 , 970 --> 00 : 15 : 44 , 474
+naruto o shimatsu shite ano makimono sae te ni irerya sore de ī nda ｡
+
+258
+00 : 15 : 44 , 474 --> 00 : 15 : 46 , 977
+omae wa atomawashida ｡
+
+259
+00 : 15 : 46 , 977 --> 00 : 15 : 48 , 977
+( ｲﾙｶ )《 saseru ka 》
+
+260
+00 : 15 : 51 , 982 --> 00 : 15 : 56 , 419
+( saru hi )《 yareyare mizuki no yatsu shaberiotte ｡
+
+261
+00 : 15 : 56 , 419 --> 00 : 15 : 59 , 422
+naruto wa ima made ni naku fuantei jana ｡
+
+262
+00 : 15 : 59 , 422 --> 00 : 16 : 03 , 426
+jutsu de osaerareteita chikara o kaihō suruya mo shiren ｡
+
+263
+00 : 16 : 03 , 426 --> 00 : 16 : 08 , 431
+sono ue fūin no sho mo tenōchi ni aruto naruto
+
+264
+00 : 16 : 08 , 431 --> 00 : 16 : 10 , 433
+jiriki de fūin o yaburi
+
+265
+00 : 16 : 10 , 433 --> 00 : 16 : 13 , 436
+tsuzurao no kitsune ga arawareru kanōsei mo
+
+266
+00 : 16 : 13 , 436 --> 00 : 16 : 16 , 439
+man ni hitotsudaga kangaerareru ｡
+
+267
+00 : 16 : 16 , 439 --> 00 : 16 : 18 , 439
+sono toki wa … 》
+
+268
+00 : 16 : 20 , 443 --> 00 : 16 : 23 , 446
+( ｲﾙｶ )《 mitsuketa ！ 》
+
+269
+00 : 16 : 23 , 446 --> 00 : 16 : 26 , 950
+( ｲﾙｶ ) naruto ！ sakki mizuki ga itta koto wa detarameda ！
+
+270
+00 : 16 : 26 , 950 --> 00 : 16 : 31 , 454
+hayaku makimono o kocchi ni watasu nda ！ mizuki ga makimono o neratteru ！
+
+271
+00 : 16 : 31 , 454 --> 00 : 16 : 33 , 454
+dā ！
+
+272
+00 : 16 : 37 , 961 --> 00 : 16 : 39 , 961
+( ｲﾙｶ ) uwa� ！
+
+273
+00 : 16 : 42 , 465 --> 00 : 16 : 46 , 469
+hā hā hā … ｡
+
+274
+00 : 16 : 46 , 469 --> 00 : 16 : 48 , 969
+( ｲﾙｶ ) so … sonna ｡
+
+275
+00 : 16 : 53 , 476 --> 00 : 16 : 57 , 914
+dōshiteda ？ naruto ｡
+
+276
+00 : 16 : 57 , 914 --> 00 : 17 : 00 , 417
+dōshite …
+
+277
+00 : 17 : 00 , 417 --> 00 : 17 : 03 , 420
+iruka janai to wakatta ？
+
+278
+00 : 17 : 03 , 420 --> 00 : 17 : 06 , 423
+hehehehe … ｡
+
+279
+00 : 17 : 06 , 423 --> 00 : 17 : 09 , 926
+iruka wa oreda ｡
+
+280
+00 : 17 : 09 , 926 --> 00 : 17 : 12 , 426
+naruhodo ｡
+
+281
+00 : 17 : 13 , 930 --> 00 : 17 : 17 , 934
+( ﾐｽﾞｷ ) oya no teki ni bakete made aitsu o kabatte nani ni naru ？
+
+282
+00 : 17 : 17 , 934 --> 00 : 17 : 21 , 938
+( ｲﾙｶ ) omae mitaina baka yarō ni makimono wa watasanai ｡
+
+283
+00 : 17 : 21 , 938 --> 00 : 17 : 23 , 940
+( ﾐｽﾞｷ ) baka wa omaeda ｡
+
+284
+00 : 17 : 23 , 940 --> 00 : 17 : 26 , 443
+naruto mo ore to onaji nandayo ｡
+
+285
+00 : 17 : 26 , 443 --> 00 : 17 : 28 , 445
+onaji ？
+
+286
+00 : 17 : 28 , 445 --> 00 : 17 : 32 , 449
+ano makimono no jutsu o tsukaeba nani datte omoi no mamada ｡
+
+287
+00 : 17 : 32 , 449 --> 00 : 17 : 34 , 451
+naruto ga …
+
+288
+00 : 17 : 34 , 451 --> 00 : 17 : 38 , 455
+ano bake gitsunega makimono no chikara o riyō shinai wake ga nai ｡
+
+289
+00 : 17 : 38 , 455 --> 00 : 17 : 40 , 955
+( ｲﾙｶ ) ā sōdana ｡
+
+290
+00 : 17 : 42 , 459 --> 00 : 17 : 45 , 962
+《 ketu yappa sō dattebayo ｡
+
+291
+00 : 17 : 45 , 962 --> 00 : 17 : 50 , 967
+horana iruka sensei mo honshin de wa ore no koto
+
+292
+00 : 17 : 50 , 967 --> 00 : 17 : 52 , 969
+mitometenē nda ！ 》
+
+293
+00 : 17 : 52 , 969 --> 00 : 17 : 55 , 972
+( ｲﾙｶ ) bake gitsunenarana ｡
+
+294
+00 : 17 : 55 , 972 --> 00 : 17 : 58 , 408
+kedo naruto wa chigau ｡
+
+295
+00 : 17 : 58 , 408 --> 00 : 18 : 00 , 410
+aitsu wa …
+
+296
+00 : 18 : 00 , 410 --> 00 : 18 : 04 , 414
+aitsu wa kono ore ga mitometa yūshūna seitoda ｡
+
+297
+00 : 18 : 04 , 414 --> 00 : 18 : 07 , 917
+doryokuka de ichizude
+
+298
+00 : 18 : 07 , 917 --> 00 : 18 : 13 , 423
+sono kuse bukiyōde dare kara mo mitometemoraenakute … ｡
+
+299
+00 : 18 : 13 , 423 --> 00 : 18 : 16 , 926
+aitsu wa hito no kokoro no kurushimi o shitteiru ｡
+
+300
+00 : 18 : 16 , 926 --> 00 : 18 : 19 , 429
+aitsu wa bake gitsunenankajanai ｡
+
+301
+00 : 18 : 19 , 429 --> 00 : 18 : 22 , 429
+ki no ha no sato no uzumaki da ！
+
+302
+00 : 18 : 25 , 935 --> 00 : 18 : 28 , 938
+( ﾐｽﾞｷ ) medetē yarōdana ｡
+
+303
+00 : 18 : 28 , 938 --> 00 : 18 : 33 , 443
+iruka omae o atomawashi ni surut tsuttaga yameta ｡
+
+304
+00 : 18 : 33 , 443 --> 00 : 18 : 36 , 946
+sassato shine ～！
+
+305
+00 : 18 : 36 , 946 --> 00 : 18 : 38 , 948
+( ｲﾙｶ )《 kore made ka … 》
+
+306
+00 : 18 : 38 , 948 --> 00 : 18 : 40 , 948
+( ﾐｽﾞｷ ) u o� ！
+
+307
+00 : 18 : 45 , 455 --> 00 : 18 : 47 , 455
+( ｲﾙｶ )《 naruto !?》
+
+308
+00 : 18 : 49 , 459 --> 00 : 18 : 52 , 462
+( ﾐｽﾞｷ ) yattekureru janē ka ｡
+
+309
+00 : 18 : 52 , 462 --> 00 : 18 : 55 , 965
+iruka sensei ni te dasuna ｡
+
+310
+00 : 18 : 55 , 965 --> 00 : 18 : 57 , 901
+korosuzo ！
+
+311
+00 : 18 : 57 , 901 --> 00 : 19 : 02 , 906
+hozakuna ！ temē mitaina gaki ichi hatsu de keritsuketeyaruyo ｡
+
+312
+00 : 19 : 02 , 906 --> 00 : 19 : 04 , 908
+yattemiroyo kasu ！
+
+313
+00 : 19 : 04 , 908 --> 00 : 19 : 07 , 410
+sen bai ni shite kaeshiteyakkara ｡
+
+314
+00 : 19 : 07 , 410 --> 00 : 19 : 12 , 415
+temē koso ！ yareru monnara yattemiro bake gitsune ！
+
+315
+00 : 19 : 12 , 415 --> 00 : 19 : 14 , 417
+kage bunshin no jutsu ！
+
+316
+00 : 19 : 14 , 417 --> 00 : 19 : 22 , 926
+♬～
+
+317
+00 : 19 : 22 , 926 --> 00 : 19 : 25 , 428
+( ｲﾙｶ )《 naruto omae … ｡
+
+318
+00 : 19 : 25 , 428 --> 00 : 19 : 27 , 931
+kage bunshin no jutsu ｡
+
+319
+00 : 19 : 27 , 931 --> 00 : 19 : 32 , 936
+jittai sonomono o tsukuridasu kōtō ninjutsu 》
+
+320
+00 : 19 : 32 , 936 --> 00 : 19 : 34 , 938
+( ﾐｽﾞｷ ) nanidato ？
+
+321
+00 : 19 : 34 , 938 --> 00 : 19 : 38 , 942
+≪ berobero bya ～！≪ rai ittebayo ！
+
+322
+00 : 19 : 38 , 942 --> 00 : 19 : 41 , 444
+( ﾐｽﾞｷ ) hā ！ ≪ oide ～！
+
+323
+00 : 19 : 41 , 444 --> 00 : 19 : 44 , 447
+sore ja … ｡ kocchi kara ikuze ！
+
+324
+00 : 19 : 44 , 447 --> 00 : 19 : 47 , 450
+a … a ～～‼
+
+325
+00 : 19 : 47 , 450 --> 00 : 19 : 52 , 950
+( naguru oto )
+
+326
+00 : 19 : 54 , 958 --> 00 : 19 : 58 , 461
+a … ｡
+
+327
+00 : 19 : 58 , 461 --> 00 : 20 : 00 , 463
+ehehehe … ｡
+
+328
+00 : 20 : 00 , 463 --> 00 : 20 : 02 , 465
+chitto yarisugichatta ｡
+
+329
+00 : 20 : 02 , 465 --> 00 : 20 : 05 , 468
+iruka sensei daijōbu ka ？
+
+330
+00 : 20 : 05 , 468 --> 00 : 20 : 07 , 971
+( ｲﾙｶ ) a … ā ｡
+
+331
+00 : 20 : 07 , 971 --> 00 : 20 : 09 , 973
+( ｲﾙｶ )《 taishita monda ｡
+
+332
+00 : 20 : 09 , 973 --> 00 : 20 : 12 , 475
+koitsu hyotto suruto hontōni
+
+333
+00 : 20 : 12 , 475 --> 00 : 20 : 14 , 978
+dono hokage o mo … 》
+
+334
+00 : 20 : 14 , 978 --> 00 : 20 : 16 , 980
+fū ～｡
+
+335
+00 : 20 : 16 , 980 --> 00 : 20 : 19 , 482
+naruto chotto kocchi ni koi ｡
+
+336
+00 : 20 : 19 , 482 --> 00 : 20 : 22 , 482
+omae ni watashitai mon ga aru ｡
+
+337
+00 : 20 : 24 , 487 --> 00 : 20 : 26 , 990
+naruto no yatsu mitsukatta ka ？
+
+338
+00 : 20 : 26 , 990 --> 00 : 20 : 29 , 492
+( ﾔｼﾞﾛﾍﾞｴ ) dameda ｡( nin ichi ) kuso ～！
+
+339
+00 : 20 : 29 , 492 --> 00 : 20 : 31 , 995
+erai koto ni nattazo ！
+
+340
+00 : 20 : 31 , 995 --> 00 : 20 : 34 , 998
+( saru hi ) mō shinpai suru koto wa nai ｡
+
+341
+00 : 20 : 34 , 998 --> 00 : 20 : 37 , 500
+( ﾍﾞｯｺｳ ) hokage sama ｡
+
+342
+00 : 20 : 37 , 500 --> 00 : 20 : 41 , 504
+mō jiki kaettekuruja rō ｡
+
+343
+00 : 20 : 41 , 504 --> 00 : 20 : 44 , 007
+sensei mada ？
+
+344
+00 : 20 : 44 , 007 --> 00 : 20 : 47 , 507
+( ｲﾙｶ ) yoshi ！ mō me akete īzo ｡
+
+345
+00 : 20 : 57 , 954 --> 00 : 21 : 01 , 454
+sotsugyō omedetō ｡
+
+346
+00 : 21 : 05 , 962 --> 00 : 21 : 08 , 464
+yoshi sotsugyō iwaida ！
+
+347
+00 : 21 : 08 , 464 --> 00 : 21 : 11 , 464
+rāmen ogotteyaruzo ｡
+
+348
+00 : 21 : 15 , 972 --> 00 : 21 : 17 , 974 n ？
+
+349
+00 : 21 : 17 , 974 --> 00 : 21 : 21 , 477
+iruka sensei ～！( ｲﾙｶ ) a tsū eyo oi ！
+
+350
+00 : 21 : 21 , 477 --> 00 : 21 : 25 , 481
+( ｲﾙｶ )《 naruto nin nitotte hontōni taihenna no wa
+
+351
+00 : 21 : 25 , 481 --> 00 : 21 : 29 , 485
+korekara datte sekkyō suru tsumoridattaga
+
+352
+00 : 21 : 29 , 485 --> 00 : 21 : 34 , 485
+mas sore wa rāmenya made gaman shitoiteyaru ka 》
+
+353
+00 : 22 : 12 , 495 --> 00 : 22 : 17 , 500
+♬( ｴﾝﾃﾞｨﾝｸﾞﾃｰﾏ )
+
+354
+00 : 22 : 17 , 500 --> 00 : 22 : 23 , 940
+♬～
+
+355
+00 : 22 : 23 , 940 --> 00 : 22 : 25 , 942
+♬ Cultivate yōr hunger
+
+356
+00 : 22 : 25 , 942 --> 00 : 22 : 27 , 443
+♬ before yō idealize
+
+357
+00 : 22 : 27 , 443 --> 00 : 22 : 29 , 445
+♬ Motivate yōr anger to
+
+358
+00 : 22 : 29 , 445 --> 00 : 22 : 30 , 947
+♬ make them realize
+
+359
+00 : 22 : 30 , 947 --> 00 : 22 : 32 , 949
+♬ Climbing the mōntain .
+
+360
+00 : 22 : 32 , 949 --> 00 : 22 : 34 , 450
+♬ Never coming down ？
+
+361
+00 : 22 : 34 , 450 --> 00 : 22 : 36 , 452
+♬ Break in to the contents .
+
+362
+00 : 22 : 36 , 452 --> 00 : 22 : 38 , 454
+♬ Never falling down
+
+363
+00 : 22 : 38 , 454 --> 00 : 22 : 41 , 457
+♬～
+
+364
+00 : 22 : 41 , 457 --> 00 : 22 : 44 , 460
+♬ My knē is still shakinglike I was twelve
+
+365
+00 : 22 : 44 , 460 --> 00 : 22 : 47 , 964
+♬ Sneaking ōt the class rōmby the back dōr
+
+366
+00 : 22 : 47 , 964 --> 00 : 22 : 49 , 966
+♬ A man railed at me twice
+
+367
+00 : 22 : 49 , 966 --> 00 : 22 : 51 , 467
+♬ but I didn ' t care
+
+368
+00 : 22 : 51 , 467 --> 00 : 22 : 53 , 469
+♬ Waiting is wasting
+
+369
+00 : 22 : 53 , 469 --> 00 : 22 : 55 , 471
+♬ for people like me
+
+370
+00 : 22 : 55 , 471 --> 00 : 22 : 58 , 474
+♬ Don ' t try to live so wise .
+
+371
+00 : 22 : 58 , 474 --> 00 : 22 : 59 , 976
+♬ Don ' t cry
+
+372
+00 : 22 : 59 , 976 --> 00 : 23 : 01 , 477
+♬ coz yō ' re so right .
+
+373
+00 : 23 : 01 , 477 --> 00 : 23 : 05 , 481
+♬ Don ' t dry withfakes or fears .
+
+374
+00 : 23 : 05 , 481 --> 00 : 23 : 09 , 485
+♬ Coz yō will hate yōrselfin the end .
+
+375
+00 : 23 : 09 , 485 --> 00 : 23 : 17 , 994
+♬～
+
+376
+00 : 23 : 17 , 994 --> 00 : 23 : 21 , 431
+♬ Don ' t try to live so wise .
+
+377
+00 : 23 : 21 , 431 --> 00 : 23 : 22 , 932
+♬ Don ' t cry
+
+378
+00 : 23 : 22 , 932 --> 00 : 23 : 24 , 934
+♬ coz yō ' re so right .
+
+379
+00 : 23 : 24 , 934 --> 00 : 23 : 27 , 937
+♬ Don ' t dry withfakes or fears .
+
+380
+00 : 23 : 27 , 937 --> 00 : 23 : 31 , 941
+♬ Coz yō will hate yōrselfin the end .
+
+381
+00 : 23 : 31 , 941 --> 00 : 23 : 34 , 944
+♬ Don ' t try to live so wise .
+
+382
+00 : 23 : 34 , 944 --> 00 : 23 : 36 , 946
+♬ Don ' t cry coz
+
+383
+00 : 23 : 36 , 946 --> 00 : 23 : 38 , 948
+♬ yō ' re so right .
+
+384
+00 : 23 : 38 , 948 --> 00 : 23 : 40 , 948
+♬ Don ' t dry
+
+385
+00 : 23 : 43 , 453 --> 00 : 23 : 47 , 457
+〈 na … nani dattebayo kono jin no nochi kuttsuitekunna ！
+
+386
+00 : 23 : 47 , 457 --> 00 : 23 : 51 , 461
+omake ni oreyo ka gaki no kuse ni go daime hokage ni naru tte ？
+
+387
+00 : 23 : 51 , 461 --> 00 : 23 : 54 , 964
+anona hokage no jīchan no magoda ka nani ka shinnēkedo
+
+388
+00 : 23 : 54 , 964 --> 00 : 23 : 58 , 468
+hokage nanon no wa sonna kantan janē ndaba ～ ka ！
+
+389
+00 : 23 : 58 , 468 --> 00 : 24 : 02 , 468
+sonnani hoshikeryana kono ore o but taoshite kara ni shiro ！ 〉
+
+390
+00 : 24 : 04 , 974 --> 00 : 24 : 08 , 474
+〈 ore tteba mata katsuyaku shichau ttebayo ！ 〉
