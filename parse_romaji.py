@@ -7,11 +7,11 @@ import subprocess
 
 def removeLongVowels(str):
   new_str = str
-  new_str = new_str.replace("ā", "a")
+  new_str = new_str.replace("ā", "aa")
   new_str = new_str.replace("ē", "e")
   new_str = new_str.replace("ī", "i")
-  new_str = new_str.replace("ō", "o")
-  new_str = new_str.replace("ū", "u")
+  new_str = new_str.replace("ō", "ou")
+  new_str = new_str.replace("ū", "uu")
   return new_str
 
 romaji_words = []
