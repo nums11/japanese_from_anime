@@ -23,7 +23,7 @@ while i < len(lines):
 dialogue_no_english = [x for x in dialogue if re.search('[a-zA-Z]', x) == None]
 
 # Write to the output file
-output_file = open("dialogue.txt", "w")
+output_file = open("episode 1/dialogue.txt", "w")
 output_file.write('\n'.join(dialogue_no_english))
 output_file.close()
 
