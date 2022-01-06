@@ -27,13 +27,14 @@ def createRomajiToEnglishDict():
           continue
         romaji_words.append(word)
   unique_romaji_words = set(romaji_words)
-  print(unique_romaji_words, len(unique_romaji_words))
+  print("Parsed " + str(len(unique_romaji_words)) + " unique romaji words\n")
 
   # Get the definition of each word using myougiden
   # and store it in a romaji_to_english dictionary
   romaji_to_english_dict = {}
   unknown_words = []
   count = 0
+  print("Creating Dictionary")
   for word in unique_romaji_words:
     print("word", count)
     # Remove long vowels fromy word to work with myougiden dictionary search
@@ -51,35 +52,37 @@ def createRomajiToEnglishDict():
   print(str(len(unknown_words)) + " words were unknown:", unknown_words)
   return romaji_to_english_dict
 
-romaji_to_english_dict = {}
-for i in range(10):
-  romaji_to_english_dict["Romaji " + str(i)] = "English " + str(i)
+def generateAnkiDeck(romaji_to_english_dict):
+  my_model = genanki.Model(
+    1407607172,
+    'Simple Model',
+    fields=[
+      {'name': 'Question'},
+      {'name': 'Answer'},
+    ],
+    templates=[
+      {
+        'name': 'Romaji To English',
+        'qfmt': '{{Question}}',
+        'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}',
+      },
+    ])
 
-my_model = genanki.Model(
-  1407607172,
-  'Simple Model',
-  fields=[
-    {'name': 'Question'},
-    {'name': 'Answer'},
-  ],
-  templates=[
-    {
-      'name': 'Romaji To English',
-      'qfmt': '{{Question}}',
-      'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}',
-    },
-  ])
+  my_deck = genanki.Deck(
+    1170750336,
+    'Naruto Episode 1 Vocab')
 
-my_deck = genanki.Deck(
-  1170750336,
-  'Naruto Episode 1 Vocab')
-
-for romaji, english in romaji_to_english_dict.items():
-  my_deck.add_note(
-    genanki.Note(
-      model=my_model,
-      fields=[romaji, english]
+  for romaji, english in romaji_to_english_dict.items():
+    my_deck.add_note(
+      genanki.Note(
+        model=my_model,
+        fields=[romaji, english]
+      )
     )
-  )
 
-genanki.Package(my_deck).write_to_file('naruto_episode_1.apkg')
+  package_name = "naruto_episode_1.apkg"
+  genanki.Package(my_deck).write_to_file(package_name)
+  print("\nAnki deck generated: " + package_name)
+
+romaji_to_english_dict = createRomajiToEnglishDict()
+generateAnkiDeck(romaji_to_english_dict)
