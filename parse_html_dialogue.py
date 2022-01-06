@@ -16,13 +16,13 @@ for element in dialogue_history_elements:
 	text = element.text.split()
 	dialogues.append(text)
 
-# Output Non-English lines only. English lines usually appear in the
+# Output Non-English words only. English words usually appear in the
 # theme song
 output_file = open("episode 1/dialogue.txt", "w")
 for i, dialogue in enumerate(dialogues):
-	dialogue_str = ' '.join(dialogue)
-	if re.search('[a-zA-Z]', dialogue_str) == None:
-		output_file.write(dialogue_str + '\n')
+	for word in dialogue:
+		if re.search('[a-zA-Z]', word) == None:
+			output_file.write(word + '\n')
 output_file.close()
 
 print("Generated dialogue.txt")

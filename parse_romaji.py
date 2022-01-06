@@ -90,4 +90,11 @@ spaced transcript file in the first place this should fix this. On animelon the 
 spaced perfectly. I could either copy them one by one into my own transcript or figure out how to
 grab them from the source automatically. I did this and it's a little better but not nearly as
 much as I was hoping. Unknown words is now down to 216.
+
+4) Words are still being combined but this time it's the fault of Romajidesu. Even though I space
+out each word individually it's romaji translator is still combining some of them in the romaji
+translations (e.g. だけ です => dakedesu instead of dake desu). Is there a python tool to translate
+japanese to romaji? If so I could do it on a word by word level and probably get much more accurate translations.
+Or alternatively what if I created my dialogue file with each word only taking up one line. Would romajidesu
+be more accurate then? This was it lol down to 57 unknown words. This is manageable for an anlysis
 """
