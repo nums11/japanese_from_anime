@@ -1,19 +1,20 @@
 import collections
 import re
+import genanki
 
-romaji_words = []
-with open('naruto_episode_romaji.txt','r') as file:
-  for line in file:
-    for word in line.split():
-      if re.search('[a-zA-Z]', word) == None:
-        continue
-      romaji_words.append(word)
+# romaji_words = []
+# with open('naruto_episode_romaji.txt','r') as file:
+#   for line in file:
+#     for word in line.split():
+#       if re.search('[a-zA-Z]', word) == None:
+#         continue
+#       romaji_words.append(word)
 
-counter=collections.Counter(romaji_words)
-most_common = counter.most_common(200)
-for tuple in most_common[100:]:
-  print(tuple[0], tuple[1], '\n')
-num_words = 10
+# counter=collections.Counter(romaji_words)
+# most_common = counter.most_common(200)
+# for tuple in most_common[100:]:
+#   print(tuple[0], tuple[1], '\n')
+# num_words = 10
 
 word_dict = {
   "ore": "I; me; rough or arrogant sounding first-poerson pronoun",
@@ -119,3 +120,36 @@ word_dict = {
   "janē": "see you; bye"
 }
 
+def generateAnkiDeck(romaji_to_english_dict):
+  my_model = genanki.Model(
+    1407607172,
+    'Simple Model',
+    fields=[
+      {'name': 'Question'},
+      {'name': 'Answer'},
+    ],
+    templates=[
+      {
+        'name': 'Romaji To English',
+        'qfmt': '{{Question}}',
+        'afmt': '{{FrontSide}}<hr id="answer">{{Answer}}',
+      },
+    ])
+
+  my_deck = genanki.Deck(
+    1170750336,
+    'Naruto Most Common Words')
+
+  for romaji, english in romaji_to_english_dict.items():
+    my_deck.add_note(
+      genanki.Note(
+        model=my_model,
+        fields=[romaji, english]
+      )
+    )
+
+  package_name = "naruto_most_common_words.apkg"
+  genanki.Package(my_deck).write_to_file(package_name)
+  print("\nAnki deck generated: " + package_name)
+
+generateAnkiDeck(word_dict)
