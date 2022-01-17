@@ -4,7 +4,7 @@ Parses html dialogue and outputs as a text file
 from bs4 import BeautifulSoup
 import re
 
-file = open('episode 1/dialogue_animelon.html', mode='r')
+file = open('episode 2/dialogue_animelon.html', mode='r')
 html = file.read()
 file.close()
 
@@ -18,7 +18,7 @@ for element in dialogue_history_elements:
 
 # Output Non-English words only. English words usually appear in the
 # theme song
-output_file = open("episode 1/dialogue.txt", "w")
+output_file = open("episode 2/dialogue.txt", "w")
 for i, dialogue in enumerate(dialogues):
 	for word in dialogue:
 		if re.search('[a-zA-Z]', word) == None:
